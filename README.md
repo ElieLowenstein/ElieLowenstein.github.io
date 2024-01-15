@@ -1,5 +1,6 @@
 # Personal Website
-ElieLowenstein.github.io
+[Website here](ElieLowenstein.github.io)
+
 Have you:
 
 - [x] added profile picture
