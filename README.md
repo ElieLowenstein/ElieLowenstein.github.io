@@ -1,5 +1,5 @@
 # Personal Website
-([ElieLowenstein.github.io](https://elielowenstein.github.io/))
+[ElieLowenstein.github.io](https://elielowenstein.github.io/)
 
 Have you:
 
